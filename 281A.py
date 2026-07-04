@@ -1,0 +1,5 @@
+s = input()
+
+out = s[0].upper() + s[1:].lower()
+print(out)
+
